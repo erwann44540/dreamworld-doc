@@ -4,7 +4,15 @@ v1.0.0, À définir
 
 == Introduction
 
-**TODO**
+La gestion de l'argent est un élément central des interactions économiques. Chaque joueur a la possibilité de disposer d'argent liquide ou de comptes bancaires pour effectuer des transactions diverses, que ce soit dans les magasins, lors d'échanges entre joueurs ou pour des investissements à plus long terme.
+
+Lorsque le joueur se trouve dans un magasin, il peut choisir de régler ses achats de deux façons différentes :
+- En utilisant l'argent liquide qu'il transporte sur lui.
+- En utilisant une carte bancaire liée à l'un de ses comptes bancaires.
+
+Chacune de ces méthodes présente ses avantages et ses risques. L'argent liquide est directement déductible du portefeuille du joueur, mais il peut être perdu en cas de vol ou d'agression. En revanche, les paiements par carte bancaire nécessitent que le joueur ait un solde suffisant sur le compte associé, mais l'argent reste en sécurité.
+
+Cette documentation explique les différentes options financières à disposition des joueurs, qu'il s'agisse de la gestion de l'argent personnel, des comptes bancaires, des comptes partagés, des comptes épargne ou encore des prêts.
 
 == Argent personnel
 
