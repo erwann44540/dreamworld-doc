@@ -1,1 +1,2 @@
 * xref:presentation.adoc[]
+* xref:personnage.adoc[]
