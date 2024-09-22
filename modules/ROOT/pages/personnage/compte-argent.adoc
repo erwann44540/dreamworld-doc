@@ -1,0 +1,21 @@
+= Argent personnel et compte bancaire
+Erwann
+v1.0.0, À définir
+
+== Introduction
+
+**TODO**
+
+== Argent personnel
+
+L'argent personnel correspond à l'argent liquide que le personnage transporte sur lui, dans son inventaire. Cet argent peut être obtenu en effectuant un retrait depuis son compte bancaire personnel ou un compte bancaire partagé.
+
+[CAUTION]
+====
+Attention : l'argent que vous avez sur vous peut être volé par d'autres joueurs.
+====
+
+[NOTE]
+====
+Note : étant de l'argent de poche, il est irréaliste de posséder une somme excessive en liquide. Si vous souhaitez transporter plus de 10 000 $, il sera nécessaire de le placer dans une mallette visible, que le personnage devra tenir en main.
+====
