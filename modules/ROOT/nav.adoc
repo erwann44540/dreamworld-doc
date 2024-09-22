@@ -1,2 +1,4 @@
-* xref:presentation.adoc[]
-* xref:personnage.adoc[]
+* xref:presentation.adoc[Présentation]
+* xref:personnage.adoc[Personnage]
+* xref:faction-legal/gouvernement.adoc[Gouvernement]
+* xref:faction-legal/police.adoc[Police]
