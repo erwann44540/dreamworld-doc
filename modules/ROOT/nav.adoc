@@ -12,4 +12,4 @@
 ** xref:job-libre/mineur.adoc[Mineur]
 ** xref:job-libre/pecheur.adoc[Pêcheur]
 * Entreprise
-** xref:entreprise/mecanicien.adoc[Mechanicien]
+** xref:entreprise/mecanicien.adoc[Mécanicien]
