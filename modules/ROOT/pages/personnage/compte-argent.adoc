@@ -10,9 +10,9 @@ v1.0.0, À définir
 
 L'argent personnel correspond à l'argent liquide que le personnage transporte sur lui, dans son inventaire. Cet argent peut être obtenu en effectuant un retrait depuis son compte bancaire personnel ou un compte bancaire partagé.
 
-[WARNING]
+[AVERTISSEMENT]
 ====
-**AVERTISSEMENT** : L'argent que vous avez sur vous peut être volé par d'autres joueurs.
+L'argent que vous avez sur vous peut être volé par d'autres joueurs.
 ====
 
 [NOTE]
