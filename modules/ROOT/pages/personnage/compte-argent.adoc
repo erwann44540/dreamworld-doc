@@ -12,7 +12,7 @@ L'argent personnel correspond à l'argent liquide que le personnage transporte s
 
 [WARNING]
 ====
-AVERTISSEMENT: l'argent que vous avez sur vous peut être volé par d'autres joueurs.
+**AVERTISSEMENT** : L'argent que vous avez sur vous peut être volé par d'autres joueurs.
 ====
 
 [NOTE]
