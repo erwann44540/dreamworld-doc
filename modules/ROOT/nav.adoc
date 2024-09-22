@@ -6,10 +6,18 @@
 *** xref:faction-legal/gouvernement/introduction.adoc[Introduction]
 ** Police
 *** xref:faction-legal/police/introduction.adoc[Introduction]
+** Justice
+*** xref:faction-legal/justice/introduction.adoc[Introduction]
 * Faction Illégal
 ** xref:faction-illegal/introduction.adoc[Introduction]
 * Job Libre
 ** xref:job-libre/mineur.adoc[Mineur]
 ** xref:job-libre/pecheur.adoc[Pêcheur]
+** xref:job-libre/camionneur.adoc[Camionneur]
 * Entreprise
 ** xref:entreprise/mecanicien.adoc[Mécanicien]
+** xref:entreprise/livreur.adoc[Livreur]
+** xref:entreprise/transport.adoc[Transport]
+* Magasin
+** xref:magasin/mobile.adoc[Mobile]
+** xref:magasin/pharmacie.adoc[Pharmacie]
