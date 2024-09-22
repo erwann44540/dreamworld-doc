@@ -1,0 +1,55 @@
+= Présentation du Projet
+Auteur: Erwann
+Version: 1.0.0
+Date: A définir.
+
+== Introduction
+
+**TODO**
+
+== Objectifs du Projet
+
+Les objectifs principaux de ce projet sont les suivants :
+
+* TODO
+* TODO
+* TODO
+* TODO
+
+== Fonctionnalités clés
+
+Les fonctionnalités majeures qui seront développées dans le cadre de ce projet incluent :
+
+* TODO
+* TODO
+* TODO
+* TODO
+
+== Architecture du Projet
+
+L'architecture du projet repose sur les éléments suivants :
+
+* **Backend**: TODO.
+* **Frontend**: TODO.
+* **Base de données**: TODO.
+* **API**: TODO.
+
+== Technologies Utilisées
+
+Les technologies qui seront employées pour la réalisation de ce projet incluent :
+
+* TODO: Langage de programmation.
+* TODO: Framework de développement.
+* TODO: Outils de gestion de projet.
+* TODO: Outils de collaboration.
+
+== Équipe de développement
+
+* Chef de projet: Erwann.
+* Développeur Backend: Erwann.
+* Développeur Frontend: Erwann.
+
+== Conclusion
+
+**TODO**
+
