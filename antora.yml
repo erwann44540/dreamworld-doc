@@ -1,0 +1,10 @@
+name: dreamworld
+title: DreamWorld
+version: 1.0.0
+start_page: presentation.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
