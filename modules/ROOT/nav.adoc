@@ -1,5 +1,11 @@
 * xref:presentation.adoc[Présentation]
-* xref:personnage.adoc[Personnage]
-* Faction Legal
-** xref:faction-legal/gouvernement.adoc[Gouvernement]
-** xref:faction-legal/police.adoc[Police]
+* Personnage
+** xref:personnage/introduction.adoc[Introduction]
+* Faction Légal
+** Gouvernement
+*** xref:faction-legal/gouvernement/introduction.adoc[Introduction]
+** Police
+*** xref:faction-legal/police/introduction.adoc[Introduction]
+* Faction Illégal
+* Job Libre
+* Entreprise
