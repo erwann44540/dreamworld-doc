@@ -1,8 +1,6 @@
 = Présentation du Projet
-
-Auteur: Erwann
-Version: 1.0.0
-Date: A définir.
+Erwann
+v1.0.0, A définir
 
 == Introduction
 
@@ -53,4 +51,3 @@ Les technologies qui seront employées pour la réalisation de ce projet incluen
 == Conclusion
 
 **TODO**
-
