@@ -1,0 +1,15 @@
+= Création de personnage
+Erwann
+v1.0.0, À définir
+
+== Introduction
+
+**TODO** 
+
+== Information du personnage
+
+Lorsque vous désirez créer un personnage, vous devrez saisir des informations importants comme : 
+- Son prénom
+- Son nom
+- Sa date de naissance
+
