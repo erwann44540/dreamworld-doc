@@ -1,6 +1,7 @@
 * xref:presentation.adoc[Présentation]
 * Personnage
 ** xref:personnage/introduction.adoc[Introduction]
+** xref:personnage/creation-personnage.adoc[Création de personnage]
 ** xref:personnage/compte-argent.adoc[Argent & Compte bancaire]
 * Faction Légal
 ** Gouvernement
