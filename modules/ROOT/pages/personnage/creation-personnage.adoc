@@ -9,7 +9,7 @@ v1.0.0, À définir
 == Information du personnage
 
 Lorsque vous désirez créer un personnage, vous devrez saisir des informations importants comme : 
-- Son prénom
-- Son nom
-- Sa date de naissance
+* Son prénom
+* Son nom
+* Sa date de naissance
 
