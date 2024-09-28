@@ -12,7 +12,7 @@ Lorsque vous désirez créer un personnage, vous devrez saisir des informations 
 
 * **Son prénom** : Le prénom du personnage.
 * **Son nom** : Le nom de famille du personnage.
-* **Sa date de naissance** : La date de naissance du personnage, influençant potentiellement certaines mécaniques du jeu, comme l'âge légal pour certaines actions.
+* **Sa date de naissance** : La date de naissance du personnage, influençant certaines mécaniques du jeu, comme l'âge légal pour certaines actions.
 
 [NOTE]
 ====
