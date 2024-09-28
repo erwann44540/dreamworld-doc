@@ -2,6 +2,7 @@
 * Personnage
 ** xref:personnage/introduction.adoc[Introduction]
 ** xref:personnage/creation-personnage.adoc[Création de personnage]
+** xref:personnage/besoin.adoc[Les besoins]
 ** xref:personnage/compte-argent.adoc[Argent & Compte bancaire]
 ** xref:personnage/telephone.adoc[Téléphone]
 * Faction Légal
@@ -9,6 +10,9 @@
 *** xref:faction-legal/gouvernement/introduction.adoc[Introduction]
 ** Police
 *** xref:faction-legal/police/introduction.adoc[Introduction]
+** Médecine
+*** xref:faction-legal/medecine/introduction.adoc[Introduction]
+*** xref:faction-legal/medecine/maladie.adoc[Maladie]
 ** Justice
 *** xref:faction-legal/justice/introduction.adoc[Introduction]
 * Faction Illégal
@@ -22,5 +26,6 @@
 ** xref:entreprise/livreur.adoc[Livreur]
 ** xref:entreprise/transport.adoc[Transport]
 * Magasin
+** xref:magasin/24-7.adoc[24h/7]
 ** xref:magasin/mobile.adoc[Mobile]
 ** xref:magasin/pharmacie.adoc[Pharmacie]

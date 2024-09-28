@@ -1,0 +1,35 @@
+= Les besoins
+Erwann
+v1.0.0, À définir
+
+== Introduction
+
+Dans le cadre du jeu, les personnages ont des besoins essentiels à satisfaire pour maintenir leur bien-être. Cela inclut la nécessité de se nourrir et de s'hydrater. Ces besoins créent des opportunités pour enrichir le roleplay à travers des scènes de la vie quotidienne, tout en impactant directement la santé des personnages.
+
+== Nourriture
+
+Le personnage doit se nourrir régulièrement. Plus le temps passe, plus le besoin de manger devient important. Négliger ce besoin peut entraîner des effets négatifs sur la santé du personnage, mais cela ouvre aussi des occasions pour créer des scènes RP autour de la recherche de nourriture ou de repas partagés.
+
+[WARNING]
+====
+Il est important de prêter attention aux types d'aliments consommés. Manger trop d'aliments déséquilibrés peut provoquer des problèmes de santé ou des maladies.
+====
+
+== Boissons
+
+En plus de se nourrir, le personnage doit se rafraîchir en consommant des boissons. Cela peut inclure de l'eau, des boissons sucrées, ou des jus.
+
+[WARNING]
+====
+Les boissons sucrées sont moins efficaces pour rafraîchir le personnage que l'eau ou d'autres boissons plus hydratantes.
+====
+
+== Où se nourrir et se rafraîchir
+
+Chaque type de nourriture et de boisson peut être acheté dans des magasins spécifiques, tels que les supérettes _xref:magasin/24-7.adoc[24h/7]_ ou dans des restaurants. Ces lieux fournissent une variété d'options alimentaires pour répondre aux besoins des personnages.
+
+== Maladies
+
+Les personnages peuvent contracter des maladies liées à de mauvaises habitudes alimentaires, un manque d'hydratation ou d'autres facteurs environnementaux. Ces maladies peuvent guérir naturellement avec le temps, ou plus rapidement grâce à l'utilisation de médicaments.
+
+Pour plus d'informations sur les maladies et leurs traitements, voir la page _xref:faction-legal/medecine/maladie.adoc[Maladie]_.
