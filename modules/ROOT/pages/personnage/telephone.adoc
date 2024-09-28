@@ -1,77 +1,85 @@
-== Téléphone
+= Téléphone
+Erwann
+v1.0.0, À définir
 
-Chaque joueur peut posséder un ou plusieurs téléphones dans le jeu, chacun pouvant contenir une ou deux cartes SIM. Ces cartes SIM offrent des fonctionnalités variées selon le forfait choisi. Voici un aperçu des caractéristiques et fonctionnalités du téléphone.
+== Introduction
 
-=== Possession de plusieurs téléphones
+Le téléphone est un outil essentiel, permettant aux joueurs de gérer divers aspects de leur vie quotidienne en jeu, de la communication à la gestion de leurs finances. Chaque joueur peut posséder plusieurs téléphones, et chaque téléphone peut contenir jusqu'à deux cartes SIM, chacune avec son propre forfait et numéro de téléphone.
 
-Chaque joueur peut disposer de plusieurs téléphones, chacun étant équipé d’une ou deux cartes SIM maximum. Chaque carte SIM est unique, avec son propre numéro de téléphone et son propre forfait.
+L'achat de téléphones et de cartes SIM se fait dans des magasins de téléphonie spécialisés (pour plus de détails, voir la section _xref:magasin/mobile.adoc[Mobile]_).
 
-==== Fonctionnement des cartes SIM
+== Fonctionnalités du téléphone
 
-* Chaque carte SIM dispose d’un numéro de téléphone unique.
-* Chaque carte SIM peut être associée à un forfait spécifique.
-* Certains forfaits incluent des fonctionnalités supplémentaires (accès Internet, appels internationaux).
-* Les cartes SIM peuvent être utilisées pour des usages différents (ex : personnel vs professionnel).
+Chaque téléphone dispose de plusieurs fonctionnalités qui varient en fonction du forfait associé à la carte SIM utilisée.
 
-[NOTE]
-====
-Il est possible d'avoir un téléphone dédié au cadre professionnel avec une carte SIM distincte de celle utilisée pour le personnel.
-====
+=== Cartes SIM et forfaits
 
-=== Obtention d’un téléphone et d’une carte SIM
+Chaque joueur peut équiper son téléphone d'une ou deux cartes SIM maximum. Chaque carte SIM dispose d’un numéro de téléphone unique et d’un forfait spécifique.
 
-Les joueurs doivent acheter leurs téléphones et cartes SIM dans un magasin de téléphonie.
-
-* Téléphones et cartes SIM disponibles à l'achat dans des magasins spécialisés.
-* Chaque carte SIM et téléphone doivent être achetés séparément.
-* Un joueur peut acheter plusieurs téléphones et cartes SIM selon ses besoins.
-
-[NOTE]
-====
-Consultez la section _Procédure d'achat de téléphone et carte SIM_ pour plus d'informations sur les étapes d'acquisition.
-====
-
-=== Fonctionnalités du téléphone
-
-Le téléphone dans le jeu est équipé de plusieurs applications et fonctionnalités :
-
-==== Appareil photo
-
-* Permet de prendre des photos à partir du téléphone.
-
-[NOTE]
-====
-Avant d'inclure cette fonctionnalité, vérifier la faisabilité technique sur FiveM.
-====
-
-==== SMS
-
-* Envoi et réception de SMS vers d'autres numéros de téléphone en jeu.
-* Possibilité de gérer les SMS reçus et envoyés.
-
-==== Appel téléphonique
-
-* Passer et recevoir des appels téléphoniques.
-* Choisir la carte SIM utilisée pour l'appel selon le numéro souhaité.
-
-==== Application bancaire
-
-* Consultation du solde du compte bancaire en jeu.
-* Possibilité d'effectuer des transferts vers d'autres comptes bancaires en jeu.
-
-==== Email
-
-* Consulter et lire les emails reçus par les joueurs.
-* Utilisation des emails pour recevoir des informations importantes en jeu.
-
-=== Limitations liées au forfait
-
-Certaines fonctionnalités du téléphone dépendent du forfait lié à chaque carte SIM.
-
-* L'accès à Internet peut être limité selon le forfait choisi.
-* L'application bancaire et les emails ne sont accessibles qu'avec un forfait incluant des données mobiles.
+- **Forfaits différents** : Chaque carte SIM peut avoir un forfait distinct. Certaines fonctionnalités du téléphone (comme l'accès à Internet) dépendent du forfait choisi.
+- **Usages variés** : Il est possible d'avoir une carte SIM dédiée à un usage professionnel, et une autre pour un usage personnel.
 
 [WARNING]
 ====
-Les fonctionnalités comme l'envoi de SMS ou l'utilisation d'Internet ne sont pas disponibles si le forfait ne le permet pas. Vérifiez toujours les détails du forfait avant de choisir.
+Chaque forfait est différent, et certaines fonctionnalités ne seront disponibles que si votre forfait inclut les services nécessaires, comme l'accès à Internet.
 ====
+
+=== Appareil photo
+
+L'appareil photo intégré au téléphone permet de capturer des images en jeu et de les sauvegarder ou de les partager via des applications intégrées.
+
+- **Activation de l'appareil photo** : Les joueurs peuvent accéder à l'application "Appareil photo" via le menu du téléphone.
+- **Fonctionnalités de la caméra** : 
+  * Zoom avant et arrière.
+  * Changement d'angle de vue (caméra avant/arrière).
+  * Ajustement de la caméra avec les contrôles du joueur.
+- **Prise de photo** : Une fois la scène cadrée, les joueurs peuvent capturer la photo. Celle-ci sera sauvegardée dans un répertoire spécifique ou une galerie interne.
+- **Gestion des photos** : Les images prises peuvent être visualisées dans la galerie du téléphone et partagées via SMS ou email en jeu, selon les fonctionnalités disponibles.
+
+[NOTE]
+====
+Les photos prises peuvent également être utilisées pour enrichir le RP, en tant que preuves lors d'enquêtes ou dans des scénarios spécifiques.
+====
+
+=== SMS
+
+Les joueurs peuvent envoyer et recevoir des SMS à d’autres numéros de téléphone en jeu. 
+
+- **Envoi** : Les SMS peuvent être envoyés via la carte SIM active.
+- **Réception** : Tous les messages sont accessibles depuis le menu SMS du téléphone.
+- **Stockage des SMS** : Les messages sont stockés dans le téléphone et peuvent être consultés à tout moment.
+
+=== Appel téléphonique
+
+Le téléphone permet de passer des appels à d'autres numéros de téléphone en jeu.
+
+- **Passer un appel** : Les appels peuvent être effectués à partir de n'importe laquelle des cartes SIM installées dans le téléphone.
+- **Recevoir un appel** : Le joueur peut recevoir des appels entrants sur les numéros associés à ses cartes SIM.
+
+=== Application bancaire
+
+L'application bancaire permet de gérer les finances personnelles du joueur directement depuis le téléphone.
+
+- **Consultation du solde** : Le joueur peut voir le solde de son compte bancaire.
+- **Transferts** : Le joueur peut effectuer des transferts d’argent entre son compte et celui d’un autre joueur.
+
+=== Email
+
+Les joueurs peuvent consulter et lire leurs emails en jeu via l'application de messagerie électronique.
+
+- **Consultation des emails** : Les emails reçus sont accessibles à tout moment dans l'application.
+- **Fonctionnalité limitée par forfait** : L'accès à cette fonctionnalité nécessite un forfait avec connexion Internet.
+
+[NOTE]
+====
+Pour utiliser l’application email ou bancaire, assurez-vous que votre forfait inclut l’accès à Internet.
+====
+
+== Limitations des forfaits
+
+Les fonctionnalités du téléphone dépendent du forfait associé à chaque carte SIM. Les forfaits peuvent inclure ou exclure certaines fonctionnalités, telles que l'accès à Internet, les appels illimités, ou la messagerie.
+
+[WARNING]
+====
+Certaines fonctionnalités, comme l'envoi de SMS ou l'accès aux emails, ne seront pas disponibles si le forfait de la carte SIM ne le permet pas. Vérifiez bien les détails de chaque forfait avant de faire votre choix.
+==== 
