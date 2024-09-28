@@ -1,0 +1,66 @@
+= Téléphone
+Erwann
+v1.0.0, À définir
+
+== Introduction
+
+Le téléphone est un outil essentiel, permettant aux joueurs de gérer divers aspects de leur vie quotidienne en jeu, que ce soit pour la communication ou la gestion de leurs finances. Chaque joueur peut posséder plusieurs téléphones, avec jusqu'à deux cartes SIM par téléphone, chacune ayant son propre forfait et numéro.
+
+Les téléphones et cartes SIM sont disponibles à l'achat dans des magasins spécialisés (pour plus de détails, voir la section _xref:magasin/mobile.adoc[Mobile]_).
+
+== Fonctionnalités du téléphone
+
+Les fonctionnalités disponibles sur chaque téléphone dépendent du forfait associé à la carte SIM utilisée.
+
+=== Cartes SIM et forfaits
+
+Chaque téléphone peut contenir une ou deux cartes SIM. Ces dernières disposent d’un numéro unique et d’un forfait spécifique, permettant un usage varié, notamment pour séparer les communications personnelles et professionnelles.
+
+[WARNING]
+====
+Les fonctionnalités disponibles, telles que l'accès à Internet ou les appels illimités, dépendent du forfait choisi. Assurez-vous que votre forfait inclut les services dont vous avez besoin.
+====
+
+=== Appareil photo
+
+L'appareil photo permet de capturer des images en jeu, qui peuvent être sauvegardées ou partagées via des applications intégrées au téléphone.
+
+- **Accès à l'appareil photo** : Depuis le menu du téléphone, les joueurs peuvent lancer l'application "Appareil photo".
+- **Options disponibles** : 
+  * Zoom avant/arrière.
+  * Changement entre caméra frontale et arrière.
+  * Ajustement de la vue.
+- **Sauvegarde et partage** : Les photos sont stockées dans une galerie ou peuvent être partagées via SMS ou email, selon les options disponibles.
+
+[NOTE]
+====
+Les photos peuvent servir d'éléments de preuve ou enrichir des scénarios spécifiques en jeu.
+====
+
+=== SMS et appels
+
+Les joueurs peuvent envoyer des SMS ou passer des appels depuis leurs cartes SIM, que ce soit pour des communications personnelles ou professionnelles.
+
+- **SMS** : Envoi et réception de messages texte avec la carte SIM active.
+- **Appels** : Les appels peuvent être passés ou reçus depuis les numéros associés aux cartes SIM.
+
+=== Applications bancaires et emails
+
+L'application bancaire permet de consulter le solde de son compte et d'effectuer des transferts d'argent, tandis que l'application email permet de consulter les messages électroniques reçus.
+
+- **Bancaire** : Consultation du solde, transferts.
+- **Emails** : Consultation des emails reçus, accessibles à tout moment.
+
+[NOTE]
+====
+L'accès aux emails et à l'application bancaire nécessite un forfait incluant une connexion Internet.
+====
+
+== Limitations des forfaits
+
+Les fonctionnalités du téléphone sont restreintes en fonction du forfait choisi pour chaque carte SIM. Par exemple, certains forfaits incluent l'accès à Internet, d'autres non, ce qui impacte directement les services accessibles.
+
+[WARNING]
+====
+Certaines fonctionnalités, comme l'envoi de SMS, les appels illimités, ou l'accès aux emails, dépendent du forfait souscrit. Assurez-vous de bien vérifier les détails avant de choisir un forfait.
+====
