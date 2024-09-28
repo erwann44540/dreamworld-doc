@@ -18,3 +18,7 @@ Lorsque vous désirez créer un personnage, vous devrez saisir des informations 
 ====
 Vous aurez le droit de créer deux personnages maximum sur le serveur. A la connexion, vous choisirez parmis les deux.
 ====
+
+== Personnalisation du personnage
+
+A définir comment ça marche...
