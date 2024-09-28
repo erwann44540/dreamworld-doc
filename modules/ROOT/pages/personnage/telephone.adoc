@@ -1,0 +1,77 @@
+== Téléphone
+
+Chaque joueur peut posséder un ou plusieurs téléphones dans le jeu, chacun pouvant contenir une ou deux cartes SIM. Ces cartes SIM offrent des fonctionnalités variées selon le forfait choisi. Voici un aperçu des caractéristiques et fonctionnalités du téléphone.
+
+=== Possession de plusieurs téléphones
+
+Chaque joueur peut disposer de plusieurs téléphones, chacun étant équipé d’une ou deux cartes SIM maximum. Chaque carte SIM est unique, avec son propre numéro de téléphone et son propre forfait.
+
+==== Fonctionnement des cartes SIM
+
+* Chaque carte SIM dispose d’un numéro de téléphone unique.
+* Chaque carte SIM peut être associée à un forfait spécifique.
+* Certains forfaits incluent des fonctionnalités supplémentaires (accès Internet, appels internationaux).
+* Les cartes SIM peuvent être utilisées pour des usages différents (ex : personnel vs professionnel).
+
+[NOTE]
+====
+Il est possible d'avoir un téléphone dédié au cadre professionnel avec une carte SIM distincte de celle utilisée pour le personnel.
+====
+
+=== Obtention d’un téléphone et d’une carte SIM
+
+Les joueurs doivent acheter leurs téléphones et cartes SIM dans un magasin de téléphonie.
+
+* Téléphones et cartes SIM disponibles à l'achat dans des magasins spécialisés.
+* Chaque carte SIM et téléphone doivent être achetés séparément.
+* Un joueur peut acheter plusieurs téléphones et cartes SIM selon ses besoins.
+
+[NOTE]
+====
+Consultez la section _Procédure d'achat de téléphone et carte SIM_ pour plus d'informations sur les étapes d'acquisition.
+====
+
+=== Fonctionnalités du téléphone
+
+Le téléphone dans le jeu est équipé de plusieurs applications et fonctionnalités :
+
+==== Appareil photo
+
+* Permet de prendre des photos à partir du téléphone.
+
+[NOTE]
+====
+Avant d'inclure cette fonctionnalité, vérifier la faisabilité technique sur FiveM.
+====
+
+==== SMS
+
+* Envoi et réception de SMS vers d'autres numéros de téléphone en jeu.
+* Possibilité de gérer les SMS reçus et envoyés.
+
+==== Appel téléphonique
+
+* Passer et recevoir des appels téléphoniques.
+* Choisir la carte SIM utilisée pour l'appel selon le numéro souhaité.
+
+==== Application bancaire
+
+* Consultation du solde du compte bancaire en jeu.
+* Possibilité d'effectuer des transferts vers d'autres comptes bancaires en jeu.
+
+==== Email
+
+* Consulter et lire les emails reçus par les joueurs.
+* Utilisation des emails pour recevoir des informations importantes en jeu.
+
+=== Limitations liées au forfait
+
+Certaines fonctionnalités du téléphone dépendent du forfait lié à chaque carte SIM.
+
+* L'accès à Internet peut être limité selon le forfait choisi.
+* L'application bancaire et les emails ne sont accessibles qu'avec un forfait incluant des données mobiles.
+
+[WARNING]
+====
+Les fonctionnalités comme l'envoi de SMS ou l'utilisation d'Internet ne sont pas disponibles si le forfait ne le permet pas. Vérifiez toujours les détails du forfait avant de choisir.
+====

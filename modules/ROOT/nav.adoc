@@ -3,6 +3,7 @@
 ** xref:personnage/introduction.adoc[Introduction]
 ** xref:personnage/creation-personnage.adoc[Création de personnage]
 ** xref:personnage/compte-argent.adoc[Argent & Compte bancaire]
+** xref:personnage/telephone.adoc[Téléphone]
 * Faction Légal
 ** Gouvernement
 *** xref:faction-legal/gouvernement/introduction.adoc[Introduction]
