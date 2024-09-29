@@ -5,6 +5,7 @@
 ** xref:personnage/besoin.adoc[Les besoins]
 ** xref:personnage/compte-argent.adoc[Argent & Compte bancaire]
 ** xref:personnage/telephone.adoc[Téléphone]
+** xref:personnage/maison.adoc[Maison]
 * Faction Légal
 ** Gouvernement
 *** xref:faction-legal/gouvernement/introduction.adoc[Introduction]
